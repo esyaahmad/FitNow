@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "65f8a1dcb27f7de575665bc0"
+  },
+  "name": "lapangan 1",
+  "address": "Damyati",
+  "Coach": [],
+  "latitude": -6.178170294581296,
+  "longitude": 106.63308288693898,
+  "imageUrl": [
+    "https://source.unsplash.com/400x200/?basketballcourt",
+    "https://source.unsplash.com/400x200/?basketballcourt"
+  ],
+  "CategoryId": {
+    "$oid": "65f8a273b27f7de575665bc9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1dcb27f7de575665bc1"
+  },
+  "name": "lapangan 2",
+  "address": "Damyati 2",
+  "Coach": [],
+  "latitude": -6.179789586858751,
+  "longitude": 106.63028731943237,
+  "imageUrl": [
+    "https://source.unsplash.com/400x200/?basketballcourt",
+    "https://source.unsplash.com/400x200/?basketballcourt"
+  ],
+  "CategorIdy": {
+    "$oid": "65f8a273b27f7de575665bc9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1dcb27f7de575665bc2"
+  },
+  "name": "lapangan 3",
+  "address": "Damyati3",
+  "Coach": [],
+  "latitude": -6.175938969759091,
+  "longitude": 106.6297186911185,
+  "imageUrl": [
+    "https://source.unsplash.com/400x200/?basketballcourt",
+    "https://source.unsplash.com/400x200/?basketballcourt"
+  ],
+  "CategoryId": {
+    "$oid": "65f8a273b27f7de575665bc9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1dcb27f7de575665bc3"
+  },
+  "name": "lapangan 4",
+  "address": "Damyati4",
+  "Coach": [],
+  "latitude": -6.1757043052076765,
+  "longitude": 106.63136020304343,
+  "imageUrl": [
+    "https://source.unsplash.com/400x200/?basketballcourt",
+    "https://source.unsplash.com/400x200/?basketballcourt"
+  ],
+  "CategoryId": {
+    "$oid": "65f8a273b27f7de575665bc9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1dcb27f7de575665bc4"
+  },
+  "name": "lapangan Futsal",
+  "address": "Futsal 5",
+  "Coach": [],
+  "latitude": -6.256320290861709,
+  "longitude": 106.62036286112703,
+  "imageUrl": [
+    "https://source.unsplash.com/400x200/?football",
+    "https://source.unsplash.com/400x200/?football"
+  ],
+  "CategoryId": {
+    "$oid": "65f8a1ebb27f7de575665bc8"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1dcb27f7de575665bc5"
+  },
+  "name": "lapangan Futsal 2",
+  "address": "Futsal 6",
+  "Coach": [],
+  "latitude": -6.259921996563108,
+  "longitude": 106.62812233190279,
+  "imageUrl": [
+    "https://source.unsplash.com/400x200/?football",
+    "https://source.unsplash.com/400x200/?football"
+  ],
+  "CategoryId": {
+    "$oid": "65f8a1ebb27f7de575665bc8"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1dcb27f7de575665bc6"
+  },
+  "name": "lapangan Futsal 3",
+  "address": "Futsal 7",
+  "Coach": [],
+  "latitude": -6.247700728475855,
+  "longitude": 106.6101579050485,
+  "imageUrl": [
+    "https://source.unsplash.com/400x200/?football",
+    "https://source.unsplash.com/400x200/?football"
+  ],
+  "CategoryId": {
+    "$oid": "65f8a1ebb27f7de575665bc8"
+  }
+}]
